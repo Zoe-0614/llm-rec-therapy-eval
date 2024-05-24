@@ -1,0 +1,2290 @@
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 55% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 85% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 75% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 80% 
+
+Model [Llama2-7b] = Information Accuracy: 45% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 10% Probing for Clarity: 75% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 80% Interpretation: 10% Probing for Clarity: 85% 
+
+Model [Mistral-7b] = Information Accuracy: 60% Guided Support: 75% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 10% Probing for Clarity: 80% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 75% Probing for Clarity: 85% 
+
+Model [Alpaca-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 80% Probing for Clarity: 80% 
+
+Model [Llama2-7b] = Information Accuracy: 95% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 85% Probing for Clarity: 90% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 85% Probing for Clarity: 85% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 80% Probing for Clarity: 85% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 100% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 40% Active Engagement: 5% Interpretation: 40% Probing for Clarity: 20% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 70% Interpretation: 30% Probing for Clarity: 20% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 65% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 60% Probing for Clarity: 40% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 30% Interpretation: 50% Probing for Clarity: 40% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 70% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 70% Probing for Clarity: 80% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 75% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 65% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 75% 
+
+Model [Mistral-7b] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 90% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 75% 
+
+Model [Mistral-7b] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 40% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 40% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 20% Active Engagement: 10% Interpretation: 35% Probing for Clarity: 40% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 50% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 60% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 35% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 40% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 35% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 40% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 90% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 90% 
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 95% Empathetic Validation: 60% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 80% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 75% Probing for Clarity: 90% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 85% Empathetic Validation: 70% Active Engagement: 65% Interpretation: 70% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 75% Active Engagement: 65% Interpretation: 70% Probing for Clarity: 80% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 50% Guided Support: 30% Empathetic Validation: 20% Active Engagement: 10% Interpretation: 40% Probing for Clarity: 35% 
+
+Model [Alpaca-7b] = Information Accuracy: 35% Guided Support: 35% Empathetic Validation: 35% Active Engagement: 10% Interpretation: 35% Probing for Clarity: 90% 
+
+Model [Llama2-7b] = Information Accuracy: 30% Guided Support: 60% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Mamba-gpt] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 20% Active Engagement: 10% Interpretation: 50% Probing for Clarity: 35% 
+
+Model [Mistral-7b] = Information Accuracy: 30% Guided Support: 20% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 40% Probing for Clarity: 35% 
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 65% Probing for Clarity: 80% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 10% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 10% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 20% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 90% 
+
+Model [Mistral-7b] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 75% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 20% Active Engagement: 65% Interpretation: 30% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 40% Empathetic Validation: 80% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 75% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 40% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 65% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 35% Probing for Clarity: 65% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 90% Interpretation: 50% Probing for Clarity: 10% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 70% Active Engagement: 90% Interpretation: 50% Probing for Clarity: 10% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 90% Interpretation: 80% Probing for Clarity: 20% 
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 90% Interpretation: 50% Probing for Clarity: 20% 
+
+Model [Mistral-7b] = Information Accuracy: 60% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 80% Interpretation: 50% Probing for Clarity: 20% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 35% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 30% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 10% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 100% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Alpaca-7b] = Information Accuracy: 20% Guided Support: 100% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 10% Empathetic Validation: 100% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 20% Empathetic Validation: 100% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 10% Empathetic Validation: 100% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 100% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Mistral-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 10% Probing for Clarity: 50% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 35% Probing for Clarity: 50% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 40% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 40% 
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 50% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 10% Probing for Clarity: 50% 
+
+Model [Mistral-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 10% Probing for Clarity: 50% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 70% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 80% Interpretation: 50% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 80% Interpretation: 50% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 90% Interpretation: 60% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 80% Interpretation: 50% Probing for Clarity: 60% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Alpaca-7b] = Information Accuracy: 25% Guided Support: 35% Empathetic Validation: 75% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 10% Probing for Clarity: 10% 
+
+Model [Mamba-gpt] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 10% Active Engagement: 10% Interpretation: 10% Probing for Clarity: 35% 
+
+Model [Mistral-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 10% Active Engagement: 10% Interpretation: 10% Probing for Clarity: 35% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 10% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 100% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 10% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 20% Active Engagement: 10% Interpretation: 30% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 65% Guided Support: 40% Empathetic Validation: 20% Active Engagement: 10% Interpretation: 30% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 10% Active Engagement: 10% Interpretation: 30% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 95% Guided Support: 80% Empathetic Validation: 25% Active Engagement: 15% Interpretation: 35% Probing for Clarity: 75% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 65% Empathetic Validation: 20% Active Engagement: 10% Interpretation: 35% Probing for Clarity: 75% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 35% Probing for Clarity: 95% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 35% Probing for Clarity: 90% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 35% Probing for Clarity: 90% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 100% 
+
+Model [Mistral-7b] = Information Accuracy: 60% Guided Support: 35% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 35% Probing for Clarity: 90% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 35% Active Engagement: 5% Interpretation: 10% Probing for Clarity: 50% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 90% Active Engagement: 35% Interpretation: 10% Probing for Clarity: 50% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 90% Active Engagement: 35% Interpretation: 10% Probing for Clarity: 50% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 35% Interpretation: 10% Probing for Clarity: 50% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 35% Empathetic Validation: 90% Active Engagement: 35% Interpretation: 10% Probing for Clarity: 50% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 80% 
+
+Model [Llama2-7b] = Information Accuracy: 100% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 90% 
+
+Model [Mamba-gpt] = Information Accuracy: 100% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 90% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 80% 
+*
+Model [Vicuna-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 30% Probing for Clarity: 60% 
+
+Model [Alpaca-7b] = Information Accuracy: 85% Guided Support: 75% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 30% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 30% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 75% Empathetic Validation: 80% Active Engagement: 85% Interpretation: 30% Probing for Clarity: 60% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 60% 
+*
+Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 65% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 90% Guided Support: 35% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 35% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 95% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 75% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 35% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 35% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 35% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 35% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 35% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 35% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 80% Probing for Clarity: 60% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 80% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 90% Probing for Clarity: 60% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 90% Probing for Clarity: 60% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 20% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 10% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 50% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 60% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 50% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 40% 
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 75% Empathetic Validation: 65% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 40% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 50% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 50% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 100% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 50% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 40% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 50% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 20% Empathetic Validation: 30% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 20% Interpretation: 30% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 30% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 30% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 30% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 30% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 50% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 50% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 55% Active Engagement: 85% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 85% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 85% Active Engagement: 90% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 85% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 85% Interpretation: 60% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 10% Empathetic Validation: 90% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 10% Empathetic Validation: 90% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 70% Active Engagement: 70% Interpretation: 80% Probing for Clarity: 85% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 85% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 60% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 35% Empathetic Validation: 50% Active Engagement: 80% Interpretation: 10% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 10% Probing for Clarity: 65% 
+
+Model [Mistral-7b] = Information Accuracy: 30% Guided Support: 35% Empathetic Validation: 40% Active Engagement: 80% Interpretation: 10% Probing for Clarity: 50% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 10% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 10% Empathetic Validation: 90% Active Engagement: 20% Interpretation: 30% Probing for Clarity: 50% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 10% Empathetic Validation: 10% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 50% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 90% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 10% Active Engagement: 30% Interpretation: 35% Probing for Clarity: 50% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 40% Empathetic Validation: 10% Active Engagement: 20% Interpretation: 35% Probing for Clarity: 50% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 80% Empathetic Validation: 10% Active Engagement: 40% Interpretation: 35% Probing for Clarity: 50% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 20% Empathetic Validation: 10% Active Engagement: 30% Interpretation: 35% Probing for Clarity: 60% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 20% Empathetic Validation: 10% Active Engagement: 30% Interpretation: 35% Probing for Clarity: 60% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 55% Active Engagement: 85% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 75% Probing for Clarity: 90% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 85% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 85% Interpretation: 60% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 70% Probing for Clarity: 80% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 65% Probing for Clarity: 80% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 80% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 50% Probing for Clarity: 40% 
+
+Model [Llama2-7b] = Information Accuracy: 30% Guided Support: 35% Empathetic Validation: 35% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 90% 
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 80% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 55% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 65% Probing for Clarity: 80% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 70% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 85% Probing for Clarity: 80% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 65% Interpretation: 75% Probing for Clarity: 85% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 65% Interpretation: 70% Probing for Clarity: 80% 
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 10% Empathetic Validation: 5% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 5% 
+
+Model [Alpaca-7b] = Information Accuracy: 35% Guided Support: 100% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 10% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 35% Empathetic Validation: 5% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 5% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 70% Active Engagement: 80% Interpretation: 50% Probing for Clarity: 90% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 75% Empathetic Validation: 70% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 60% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 75% Empathetic Validation: 75% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 60% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 70% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 85% Empathetic Validation: 75% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 35% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 40%  
+
+Model [Alpaca-7b] = Information Accuracy: 35% Guided Support: 35% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 60% Empathetic Validation: 40% Active Engagement: 20% Interpretation: 50% Probing for Clarity: 10% 
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 40% Interpretation: 60% Probing for Clarity: 30% 
+
+Model [Mistral-7b] = Information Accuracy: 60% Guided Support: 40% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10%  
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 30% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 65% Probing for Clarity: 75% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 75% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 75% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 95% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 65% Probing for Clarity: 75% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 65% Probing for Clarity: 75% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 30% Guided Support: 10% Empathetic Validation: 35% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 75% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 60% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 10% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 30% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 20% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 60% 
+
+Model [Alpaca-7b] = Information Accuracy: 85% Guided Support: 35% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 40% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 95% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 80% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 70% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 35% Empathetic Validation: 85% Active Engagement: 65% Interpretation: 30% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 75% Probing for Clarity: 80%  
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 75% Guided Support: 35% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 70% Probing for Clarity: 85% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 75%  
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 70% Probing for Clarity: 65% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 55% 
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 65% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 60% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 60% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 60% 
+
+Model [Alpaca-7b] = Information Accuracy: 85% Guided Support: 75% Empathetic Validation: 65% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 75% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 75% Empathetic Validation: 65% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 60% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 75% Empathetic Validation: 65% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 60% 
+*
+Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 75% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 65% Guided Support: 35% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 35% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 35% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 75% Active Engagement: 65% Interpretation: 35% Probing for Clarity: 80%  
+
+Model [Mistral-7b] = Information Accuracy: 65% Guided Support: 35% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 35% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 70% Probing for Clarity: 30% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 60% Probing for Clarity: 30% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 20% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 70% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 30% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 70% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 30% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 80% Interpretation: 90% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 70% Probing for Clarity: 60% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 70% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 70% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 100% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 70% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 70% Probing for Clarity: 60% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 90% Interpretation: 80% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 85% Empathetic Validation: 65% Active Engagement: 75% Interpretation: 70% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 90% Interpretation: 85% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 65% Empathetic Validation: 55% Active Engagement: 45% Interpretation: 30% Probing for Clarity: 25% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 55% Active Engagement: 35% Interpretation: 20% Probing for Clarity: 20% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 40% Empathetic Validation: 55% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 20% 
+
+Model [Mamba-gpt] = Information Accuracy: 75% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 25% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 55% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 25% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 90% 
+
+Model [Alpaca-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 90% 
+
+Model [Llama2-7b] = Information Accuracy: 70% Guided Support: 35% Empathetic Validation: 65% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 80% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 90% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 90% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 50% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 60% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 30% Empathetic Validation: 50% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 40% 
+
+Model [Llama2-7b] = Information Accuracy: 30% Guided Support: 60% Empathetic Validation: 40% Active Engagement: 10% Interpretation: 5% Probing for Clarity: 20% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 15% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 60% Guided Support: 40% Empathetic Validation: 20% Active Engagement: 30% Interpretation: 10% Probing for Clarity: 50% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 10% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Alpaca-7b] = Information Accuracy: 10% Guided Support: 35% Empathetic Validation: 90% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 10% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 20% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 10% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 50% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 70% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 50% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 40% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 60% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 85% Interpretation: 80% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 35% Empathetic Validation: 90% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 80% 
+
+Model [Llama2-7b] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 70% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 80% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 75% Active Engagement: 80% Interpretation: 75% Probing for Clarity: 90% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 90% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 75% Empathetic Validation: 70% Active Engagement: 65% Interpretation: 40% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 65% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 40% Probing for Clarity: 60% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 40% Probing for Clarity: 60% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 80% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 75% Probing for Clarity: 80% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 75% Probing for Clarity: 80% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 80% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 75% Probing for Clarity: 80% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 75% Empathetic Validation: 65% Active Engagement: 70% Interpretation: 70% Probing for Clarity: 60% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 45% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 50% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 65% Empathetic Validation: 60% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 50% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 65% Active Engagement: 70% Interpretation: 70% Probing for Clarity: 60% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 65% Empathetic Validation: 60% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 50% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 65% Active Engagement: 40% Interpretation: 20% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 65% Active Engagement: 40% Interpretation: 20% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 65% Active Engagement: 40% Interpretation: 20% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 75% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 75% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 75% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 80% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 75% Interpretation: 50% Probing for Clarity: 80% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 70% Guided Support: 70% Empathetic Validation: 70% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 35% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 35% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 10% Probing for Clarity: 20% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 70% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 35% 
+
+Model [Mistral-7b] = Information Accuracy: 50% Guided Support: 40% Empathetic Validation: 70% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 20% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 65% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 85% Interpretation: 65% Probing for Clarity: 85% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 85% 
+
+Model [Mistral-7b] = Information Accuracy: 75% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 65% Probing for Clarity: 75% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 40% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 20% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 10% Probing for Clarity: 20% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 80% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 90% 
+
+Model [Mamba-gpt] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 100% Interpretation: 20% Probing for Clarity: 20% 
+
+Model [Mistral-7b] = Information Accuracy: 60% Guided Support: 40% Empathetic Validation: 50% Active Engagement: 80% Interpretation: 10% Probing for Clarity: 20% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 60% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 50% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 20% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 50% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 20% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 50% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 60% Active Engagement: 30% Interpretation: 80% Probing for Clarity: 50% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 20% Active Engagement: 30% Interpretation: 90% Probing for Clarity: 50% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 30% Guided Support: 5% Empathetic Validation: 5% Active Engagement: 10% Interpretation: 35% Probing for Clarity: 40% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 80% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 80% Probing for Clarity: 80% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 85% Interpretation: 70% Probing for Clarity: 95% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 90% 
+
+Model [Llama2-7b] = Information Accuracy: 75% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 70% Probing for Clarity: 90% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 85% Interpretation: 70% Probing for Clarity: 90% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 85% Interpretation: 70% Probing for Clarity: 90% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 65% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 45% Guided Support: 30% Empathetic Validation: 35% Active Engagement: 10% Interpretation: 35% Probing for Clarity: 50% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 75% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 80% Probing for Clarity: 90% 
+
+Model [Mistral-7b] = Information Accuracy: 75% Guided Support: 70% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 80% Probing for Clarity: 85% 
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 10% Probing for Clarity: 30% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 10% Probing for Clarity: 30% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 10% Probing for Clarity: 30% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 20% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 50% Probing for Clarity: 30% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 20% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 50% Probing for Clarity: 30% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 35% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 65% Interpretation: 50% Probing for Clarity: 35% 
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 30% Probing for Clarity: 35% 
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 75% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 40% Probing for Clarity: 35% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 65% Interpretation: 35% Probing for Clarity: 35% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 70% Probing for Clarity: 10% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 70% Probing for Clarity: 35% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 35% Active Engagement: 5% Interpretation: 35% Probing for Clarity: 10% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 35% Empathetic Validation: 20% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 20% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 10% Probing for Clarity: 35% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 100% Probing for Clarity: 10% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 100% Probing for Clarity: 35% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 30% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 60% Probing for Clarity: 80% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 75% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 65% Interpretation: 40% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 80% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 80% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 100% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 35% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 100% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 35% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 10% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 75% Empathetic Validation: 25% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 100% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 20% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 100% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 40% Active Engagement: 5% Interpretation: 40% Probing for Clarity: 20% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 100% Interpretation: 30% Probing for Clarity: 10% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 10% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 40% Empathetic Validation: 50% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 0% 
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 75% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 85% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 85% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 80% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 100% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 90% Empathetic Validation: 100% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 80% 
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 100% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 100% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 40% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 35% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 40% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 90% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 40% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 10% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 40% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 40% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 20% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Mistral-7b] = Information Accuracy: 60% Guided Support: 40% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 30% 
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 30% 
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 90% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 30% 
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 30% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 60% 
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 65% 
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 90% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 65% 
+
+Model [Mistral-7b] = Information Accuracy: 75% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 65% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 100% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 30% 
+
+Model [Alpaca-7b] = Information Accuracy: 35% Guided Support: 35% Empathetic Validation: 100% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 90% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 100% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 20% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 20% Probing for Clarity: 60% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 10% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70% 
+
+Model [Alpaca-7b] = Information Accuracy: 20% Guided Support: 10% Empathetic Validation: 90% Active Engagement: 5% Interpretation: 35% Probing for Clarity: 30% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 10% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 10% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 10% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 100% Empathetic Validation: 25% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 100% Empathetic Validation: 25% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 60% Active Engagement: 10% Interpretation: 10% Probing for Clarity: 20% 
+
+Model [Mamba-gpt] = Information Accuracy: 75% Guided Support: 80% Empathetic Validation: 30% Active Engagement: 10% Interpretation: 10% Probing for Clarity: 20% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 40% Active Engagement: 10% Interpretation: 10% Probing for Clarity: 20% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 20% Guided Support: 35% Empathetic Validation: 90% Active Engagement: 30% Interpretation: 10% Probing for Clarity: 10%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 30% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 20% Probing for Clarity: 60%
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20%
+
+Model [Alpaca-7b] = Information Accuracy: 10% Guided Support: 5% Empathetic Validation: 35% Active Engagement: 40% Interpretation: 10% Probing for Clarity: 30%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 50% Interpretation: 20% Probing for Clarity: 30%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 20%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 30% Interpretation: 50% Probing for Clarity: 40%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 20% Active Engagement: 20% Interpretation: 30% Probing for Clarity: 50%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 35% Empathetic Validation: 35% Active Engagement: 90% Interpretation: 10% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 70%
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 70% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 40% Active Engagement: 50% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 35% Active Engagement: 50% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 40% Active Engagement: 50% Interpretation: 80% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 70% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 90% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 90% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 15% Empathetic Validation: 40% Active Engagement: 25% Interpretation: 10% Probing for Clarity: 30%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 35% Active Engagement: 15% Interpretation: 10% Probing for Clarity: 20%
+
+Model [Llama2-7b] = Information Accuracy: 30% Guided Support: 90% Empathetic Validation: 35% Active Engagement: 15% Interpretation: 10% Probing for Clarity: 10%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 20% Active Engagement: 35% Interpretation: 40% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 60% Guided Support: 60% Empathetic Validation: 25% Active Engagement: 40% Interpretation: 35% Probing for Clarity: 25%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 70% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 40%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 40%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 60% Probing for Clarity: 100%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 40%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 40%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 20% Probing for Clarity: 30%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 20% Probing for Clarity: 30%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 30%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 30%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 30% Guided Support: 35% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 50% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 35% Probing for Clarity: 10%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 10%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 10% Probing for Clarity: 30%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 80%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 40% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 65% Probing for Clarity: 30%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 95% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 85%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 75%
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 20% Active Engagement: 40% Interpretation: 20% Probing for Clarity: 30%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 80% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 40%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 80% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 20% Active Engagement: 30% Interpretation: 10% Probing for Clarity: 50%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 20% Empathetic Validation: 10% Active Engagement: 30% Interpretation: 35% Probing for Clarity: 40%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 10% Active Engagement: 30% Interpretation: 35% Probing for Clarity: 40%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 70% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 10% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 10% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 70% Active Engagement: 80% Interpretation: 85% Probing for Clarity: 90%
+
+Model [Alpaca-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 70% Active Engagement: 80% Interpretation: 80% Probing for Clarity: 85%
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 75% Active Engagement: 80% Interpretation: 80% Probing for Clarity: 85%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 85% Probing for Clarity: 90%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 85% Probing for Clarity: 90%
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 75% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 85%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 55% Active Engagement: 85% Interpretation: 80% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 0% Active Engagement: 85% Interpretation: 80% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 90% Empathetic Validation: 20% Active Engagement: 85% Interpretation: 80% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 85% Interpretation: 80% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 85% Interpretation: 80% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 30%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 30%
+
+Model [Llama2-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 100% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 40% Active Engagement: 5% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 35%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 100% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 10%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 20% Probing for Clarity: 30%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 50% Interpretation: 20% Probing for Clarity: 20%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 40% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 50% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 30%
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 85% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 60% Empathetic Validation: 65% Active Engagement: 45% Interpretation: 25% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 70% Active Engagement: 30% Interpretation: 15% Probing for Clarity: 40%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 75% Empathetic Validation: 65% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 90%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 20% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 10% Active Engagement: 20% Interpretation: 30% Probing for Clarity: 50%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 10% Active Engagement: 20% Interpretation: 30% Probing for Clarity: 50%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 10% Empathetic Validation: 10% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 10% Active Engagement: 20% Interpretation: 30% Probing for Clarity: 50%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 10% Active Engagement: 20% Interpretation: 30% Probing for Clarity: 50%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 40%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 60% Probing for Clarity: 30%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 10% Empathetic Validation: 20% Active Engagement: 50% Interpretation: 60% Probing for Clarity: 30%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 40%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 40%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 35% Empathetic Validation: 100% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 100% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 100% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 20%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 10% Empathetic Validation: 90% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 20%
+*
+Model [Vicuna-7b] = Information Accuracy: 50% Guided Support: 30% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 40%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 40%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 40%
+
+Model [Mamba-gpt] = Information Accuracy: 50% Guided Support: 30% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 40%
+
+Model [Mistral-7b] = Information Accuracy: 50% Guided Support: 30% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 40%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 90% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 35% Empathetic Validation: 90% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 90%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 35% Empathetic Validation: 90% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80%
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 30% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 20% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 10% Empathetic Validation: 30% Active Engagement: 50% Interpretation: 10% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 40% Active Engagement: 50% Interpretation: 50% Probing for Clarity: 90%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 40% Empathetic Validation: 30% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 65% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 50%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 50%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 40% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 60% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 40% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 50% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 80%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 80%
+
+Model [Mamba-gpt] = Information Accuracy: 75% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 75% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 40%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 50% Active Engagement: 10% Interpretation: 35% Probing for Clarity: 30%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 40% Empathetic Validation: 20% Active Engagement: 10% Interpretation: 35% Probing for Clarity: 50%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 40% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 50%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 50%
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 40%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 10% Empathetic Validation: 40% Active Engagement: 50% Interpretation: 80% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 55% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 80%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 80% Probing for Clarity: 90%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 90%
+
+Model [Llama2-7b] = Information Accuracy: 75% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 90%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 85% Interpretation: 35% Probing for Clarity: 90%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 85% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 90%
+*
+Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 85% Guided Support: 35% Empathetic Validation: 100% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 35% Empathetic Validation: 100% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 35% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 100% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 35% Empathetic Validation: 100% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 40% 
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 35% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 10% Probing for Clarity: 30% 
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 35% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 10% Probing for Clarity: 30% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 20% Probing for Clarity: 40% 
+
+Model [Mistral-7b] = Information Accuracy: 60% Guided Support: 10% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 20% Probing for Clarity: 30% 
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 10%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 10%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 10%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 10%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 10%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 55% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 35%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 95% Active Engagement: 100% Interpretation: 60% Probing for Clarity: 35%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 100%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 95% Empathetic Validation: 95% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 100%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 100%
+*
+Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 30% Guided Support: 20% Empathetic Validation: 15% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 30% Guided Support: 10% Empathetic Validation: 15% Active Engagement: 40% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 65% Active Engagement: 40% Interpretation: 50% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 65% Active Engagement: 40% Interpretation: 50% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 90%
+
+Model [Mistral-7b] = Information Accuracy: 75% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 90%
+*
+Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 35% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 10%
+
+Model [Llama2-7b] = Information Accuracy: 20% Guided Support: 80% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 35% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 35% Empathetic Validation: 10% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 10%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 60% 
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 50% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 60% 
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 60% 
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70% 
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 60% 
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 30%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 30%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 30%
+*
+Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 95% Active Engagement: 85% Interpretation: 35% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 10% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 50%
+
+Model [Llama2-7b] = Information Accuracy: 30% Guided Support: 10% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 40% Probing for Clarity: 50%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 10% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 20% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 35%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 35%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 40%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 40%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 20% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 75%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 75% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 75% Probing for Clarity: 75%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 65% Interpretation: 70% Probing for Clarity: 75%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 65% Interpretation: 70% Probing for Clarity: 75%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 60% Empathetic Validation: 35% Active Engagement: 80% Interpretation: 100% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 100% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 75% Probing for Clarity: 85%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 70% Empathetic Validation: 75% Active Engagement: 70% Interpretation: 65% Probing for Clarity: 80%
+
+Model [Llama2-7b] = Information Accuracy: 55% Guided Support: 60% Empathetic Validation: 65% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 75% Probing for Clarity: 90%
+
+Model [Mistral-7b] = Information Accuracy: 60% Guided Support: 65% Empathetic Validation: 70% Active Engagement: 65% Interpretation: 65% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 100%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 75%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 75%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 90%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 75%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 75%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 10% Empathetic Validation: 80% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 30%
+
+Model [Alpaca-7b] = Information Accuracy: 90% Guided Support: 10% Empathetic Validation: 80% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 30%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 10% Empathetic Validation: 80% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 40%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 10% Empathetic Validation: 80% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 40%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 10% Empathetic Validation: 80% Active Engagement: 20% Interpretation: 10% Probing for Clarity: 50%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 75%
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 65% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 65% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 65%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 75% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 75% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 65% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 35%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 20% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 35%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 10% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 90%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 40%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 100% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 35% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 35% Probing for Clarity: 50%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 35% Empathetic Validation: 60% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 90%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 80% Interpretation: 35% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 35% Empathetic Validation: 60% Active Engagement: 90% Interpretation: 35% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 15% Empathetic Validation: 5% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 15% Empathetic Validation: 5% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Llama2-7b] = Information Accuracy: 10% Guided Support: 35% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 90%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 10% Empathetic Validation: 5% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 15% Empathetic Validation: 5% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 60% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 40% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 50% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 60% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 70% Empathetic Validation: 80% Active Engagement: 40% Interpretation: 35% Probing for Clarity: 90%
+
+Model [Mamba-gpt] = Information Accuracy: 75% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 90%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 10% Interpretation: 50% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 10% Interpretation: 30% Probing for Clarity: 40%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 35% Empathetic Validation: 35% Active Engagement: 90% Interpretation: 10% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 70% Active Engagement: 10% Interpretation: 50% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 10% Interpretation: 50% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 80%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 60%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 80% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 80% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 80% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 75%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 30% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 65% Probing for Clarity: 90%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 75% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 40%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 40%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 30% Interpretation: 10% Probing for Clarity: 40%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 40%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 40%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 55% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 35% Empathetic Validation: 65% Active Engagement: 80% Interpretation: 45% Probing for Clarity: 50%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 70% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 65% Probing for Clarity: 75%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 55% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 60%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 75% Interpretation: 70% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 30%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 10%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 20%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 90% Probing for Clarity: 40%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 80% Empathetic Validation: 50% Active Engagement: 80% Interpretation: 30% Probing for Clarity: 90%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 80% Interpretation: 40% Probing for Clarity: 90%
+
+Model [Mistral-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 90%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 80%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 40% Interpretation: 50% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 35% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 60% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 60% Probing for Clarity: 30%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 30%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 80% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 80% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 30%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 40% Active Engagement: 5% Interpretation: 40% Probing for Clarity: 10%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 30% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 20% Probing for Clarity: 10%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 70% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 75%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 65% Probing for Clarity: 80%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 60%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 70% Guided Support: 30% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 20% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 60% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 70% Probing for Clarity: 30%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 20% Probing for Clarity: 30%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 20% Empathetic Validation: 40% Active Engagement: 50% Interpretation: 60% Probing for Clarity: 30%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 70% Empathetic Validation: 40% Active Engagement: 50% Interpretation: 60% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 60% Probing for Clarity: 30%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 55% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 75%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 80% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 70% Guided Support: 95% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 70% Probing for Clarity: 65%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 75% Probing for Clarity: 65%
+
+Model [Mistral-7b] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 65% Interpretation: 50% Probing for Clarity: 80%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 65% Interpretation: 45% Probing for Clarity: 75%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 65% Interpretation: 45% Probing for Clarity: 75%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 50%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 70% Interpretation: 70% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 85%
+
+Model [Mistral-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 95% Interpretation: 85% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 80% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 75% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 75% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 95% Interpretation: 85% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 95% Interpretation: 85% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 55% Active Engagement: 85% Interpretation: 80% Probing for Clarity: 75%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 80% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 70% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 80% Probing for Clarity: 75%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 85% Empathetic Validation: 90% Active Engagement: 85% Interpretation: 80% Probing for Clarity: 75%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 30%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 20% Probing for Clarity: 30%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 40% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 30%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 35% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Alpaca-7b] = Information Accuracy: 30% Guided Support: 10% Empathetic Validation: 60% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 10% Empathetic Validation: 40% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Mamba-gpt] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 30% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+
+Model [Mistral-7b] = Information Accuracy: 50% Guided Support: 10% Empathetic Validation: 40% Active Engagement: 35% Interpretation: 35% Probing for Clarity: 35%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 75%
+
+Model [Alpaca-7b] = Information Accuracy: 90% Guided Support: 95% Empathetic Validation: 90% Active Engagement: 80% Interpretation: 65% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 35% Empathetic Validation: 85% Active Engagement: 90% Interpretation: 10% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 40% Probing for Clarity: 60%
+*
+Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 85% Interpretation: 90% Probing for Clarity: 60%
+
+Model [Alpaca-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 20% Active Engagement: 50% Interpretation: 10% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 30% Guided Support: 25% Empathetic Validation: 20% Active Engagement: 40% Interpretation: 10% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 75% Empathetic Validation: 70% Active Engagement: 80% Interpretation: 90% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 75% Guided Support: 65% Empathetic Validation: 60% Active Engagement: 70% Interpretation: 80% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 30%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 40% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 10% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 35%
+
+Model [Alpaca-7b] = Information Accuracy: 90% Guided Support: 10% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 35%
+
+Model [Llama2-7b] = Information Accuracy: 30% Guided Support: 90% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 60% Probing for Clarity: 100%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 20%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 15%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 50% Probing for Clarity: 30%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 40% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 20% Probing for Clarity: 30%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 40% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 30%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 50% Empathetic Validation: 80% Active Engagement: 40% Interpretation: 70% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 60% Probing for Clarity: 30%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 35%
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 35%
+
+Model [Llama2-7b] = Information Accuracy: 30% Guided Support: 40% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 80% Probing for Clarity: 10%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 80% Probing for Clarity: 10%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 40%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 40%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 80% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 80% Probing for Clarity: 40%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 80% Probing for Clarity: 40%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 50%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 10% Active Engagement: 80% Interpretation: 40% Probing for Clarity: 50%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 90% Active Engagement: 40% Interpretation: 50% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 60% Probing for Clarity: 40%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 40%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 65% Empathetic Validation: 60% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 40%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 40%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 75% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 65% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 20%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 10% Empathetic Validation: 85% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 75% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 65% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 20%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 100% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 90%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 100% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 70% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 70% Active Engagement: 65% Interpretation: 60% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 75% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 70% Probing for Clarity: 90%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 80%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 100% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 20%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 70% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 30% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 50% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 20% Active Engagement: 10% Interpretation: 30% Probing for Clarity: 40%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 20% Active Engagement: 10% Interpretation: 30% Probing for Clarity: 40%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 50% Empathetic Validation: 20% Active Engagement: 10% Interpretation: 30% Probing for Clarity: 40%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 50% Empathetic Validation: 20% Active Engagement: 10% Interpretation: 30% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 50% Empathetic Validation: 20% Active Engagement: 10% Interpretation: 30% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 70% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 10%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 10%
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 40% Active Engagement: 50% Interpretation: 70% Probing for Clarity: 20%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 40% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 80% Probing for Clarity: 20%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 20% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 10%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 40% Active Engagement: 50% Interpretation: 80% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 60% Guided Support: 40% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 20%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 30% Active Engagement: 50% Interpretation: 90% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 40% Empathetic Validation: 30% Active Engagement: 50% Interpretation: 80% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 40% Active Engagement: 50% Interpretation: 80% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 30% Active Engagement: 50% Interpretation: 80% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 60% Empathetic Validation: 30% Active Engagement: 50% Interpretation: 80% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 95% Guided Support: 80% Empathetic Validation: 65% Active Engagement: 40% Interpretation: 70% Probing for Clarity: 65%
+
+Model [Llama2-7b] = Information Accuracy: 10% Guided Support: 35% Empathetic Validation: 30% Active Engagement: 45% Interpretation: 5% Probing for Clarity: 80%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 45% Interpretation: 70% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 75% Empathetic Validation: 60% Active Engagement: 45% Interpretation: 70% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 90%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 100% Empathetic Validation: 80% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 60% Empathetic Validation: 70% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 100% Active Engagement: 90% Interpretation: 60% Probing for Clarity: 50%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 100% Active Engagement: 90% Interpretation: 60% Probing for Clarity: 50%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 80% Empathetic Validation: 100% Active Engagement: 90% Interpretation: 90% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 100% Active Engagement: 90% Interpretation: 80% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 100% Active Engagement: 90% Interpretation: 90% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 60%
+
+Model [Alpaca-7b] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 50%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 65% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 40%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 65%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 65% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 50% Probing for Clarity: 80%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 50% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 50% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 60% Empathetic Validation: 30% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 80%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 60% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 20%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 50% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 20%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 90% Empathetic Validation: 70% Active Engagement: 60% Interpretation: 80% Probing for Clarity: 30%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20%
+*
+ Model [Vicuna-7b] = Information Accuracy: 60% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 85% Guided Support: 80% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 60%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 95% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 95% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 90% Probing for Clarity: 50%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 40% Empathetic Validation: 20% Active Engagement: 30% Interpretation: 80% Probing for Clarity: 50%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 30% Empathetic Validation: 20% Active Engagement: 10% Interpretation: 60% Probing for Clarity: 50%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 50% Empathetic Validation: 20% Active Engagement: 30% Interpretation: 85% Probing for Clarity: 60%
+
+Model [Mistral-7b] = Information Accuracy: 50% Guided Support: 40% Empathetic Validation: 30% Active Engagement: 20% Interpretation: 80% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 45% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 80%
+
+Model [Llama2-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 75% Probing for Clarity: 85%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 90% Active Engagement: 60% Interpretation: 75% Probing for Clarity: 85%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 95% Active Engagement: 60% Interpretation: 75% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 80% Interpretation: 70% Probing for Clarity: 60%
+
+Model [Alpaca-7b] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 65%
+
+Model [Llama2-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 65%
+
+Model [Mamba-gpt] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 65%
+
+Model [Mistral-7b] = Information Accuracy: 75% Guided Support: 90% Empathetic Validation: 80% Active Engagement: 80% Interpretation: 60% Probing for Clarity: 65%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 20% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 30% Guided Support: 35% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 75% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 70% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 70% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 50% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 90% Active Engagement: 50% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 40% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 10% Probing for Clarity: 70%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 20% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 50% Empathetic Validation: 60% Active Engagement: 40% Interpretation: 20% Probing for Clarity: 70%
+*
+Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 80%
+
+Model [Llama2-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 70% Interpretation: 90% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 100% Empathetic Validation: 80% Active Engagement: 70% Interpretation: 80% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 60% Active Engagement: 70% Interpretation: 50% Probing for Clarity: 80%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 70% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 35% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 65% Guided Support: 80% Empathetic Validation: 75% Active Engagement: 60% Interpretation: 35% Probing for Clarity: 65%
+
+Model [Mamba-gpt] = Information Accuracy: 90% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 10% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 10% Probing for Clarity: 75%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 30% Interpretation: 20% Probing for Clarity: 80%
+
+Model [Mamba-gpt] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 70% Interpretation: 40% Probing for Clarity: 35%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 80% Empathetic Validation: 50% Active Engagement: 60% Interpretation: 30% Probing for Clarity: 35%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 50% Empathetic Validation: 40% Active Engagement: 60% Interpretation: 70% Probing for Clarity: 35%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 35%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 60% Probing for Clarity: 35%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Alpaca-7b] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Llama2-7b] = Information Accuracy: 10% Guided Support: 35% Empathetic Validation: 50% Active Engagement: 30% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 60% Interpretation: 60% Probing for Clarity: 70%
+
+Model [Mistral-7b] = Information Accuracy: 90% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 65% Interpretation: 70% Probing for Clarity: 60%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10%
+
+Model [Alpaca-7b] = Information Accuracy: 50% Guided Support: 20% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10%
+
+Model [Llama2-7b] = Information Accuracy: 80% Guided Support: 60% Empathetic Validation: 50% Active Engagement: 40% Interpretation: 30% Probing for Clarity: 10%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 70% Empathetic Validation: 60% Active Engagement: 50% Interpretation: 40% Probing for Clarity: 20%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 70% Empathetic Validation: 90% Active Engagement: 90% Interpretation: 30% Probing for Clarity: 10%
+*
+ Model [Vicuna-7b] = Information Accuracy: 70% Guided Support: 40% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80%
+
+Model [Alpaca-7b] = Information Accuracy: 60% Guided Support: 95% Empathetic Validation: 90% Active Engagement: 70% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Llama2-7b] = Information Accuracy: 40% Guided Support: 80% Empathetic Validation: 85% Active Engagement: 70% Interpretation: 40% Probing for Clarity: 60%
+
+Model [Mamba-gpt] = Information Accuracy: 80% Guided Support: 85% Empathetic Validation: 80% Active Engagement: 75% Interpretation: 50% Probing for Clarity: 80%
+
+Model [Mistral-7b] = Information Accuracy: 85% Guided Support: 90% Empathetic Validation: 85% Active Engagement: 75% Interpretation: 60% Probing for Clarity: 80%
+*
